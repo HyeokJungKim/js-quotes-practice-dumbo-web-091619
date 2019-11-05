@@ -1,11 +1,6 @@
 {
   "quotes": [
     {
-      "id": 1,
-      "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
-      "author": "Ann Richards"
-    },
-    {
       "id": 3,
       "quote": "Don't count the days, make the days count.",
       "author": "Mike Tyson"
@@ -54,26 +49,14 @@
       "quote": "Math is cool",
       "author": "Eric",
       "id": 13
+    },
+    {
+      "quote": "This will work",
+      "author": "Brett",
+      "id": 14
     }
   ],
   "likes": [
-    {
-      "id": 1,
-      "quoteId": 1,
-      "createdAt": 1558524356
-    },
-    {
-      "quoteId": 1,
-      "id": 2
-    },
-    {
-      "quoteId": 1,
-      "id": 3
-    },
-    {
-      "quoteId": 1,
-      "id": 11
-    },
     {
       "quoteId": 3,
       "id": 12
@@ -85,18 +68,6 @@
     {
       "quoteId": 3,
       "id": 14
-    },
-    {
-      "quoteId": 1,
-      "id": 15
-    },
-    {
-      "quoteId": 1,
-      "id": 16
-    },
-    {
-      "quoteId": 1,
-      "id": 17
     },
     {
       "quoteId": 3,
@@ -117,18 +88,6 @@
     {
       "quoteId": 3,
       "id": 22
-    },
-    {
-      "quoteId": 1,
-      "id": 23
-    },
-    {
-      "quoteId": 1,
-      "id": 24
-    },
-    {
-      "quoteId": 1,
-      "id": 25
     },
     {
       "quoteId": 4,
@@ -233,6 +192,74 @@
     {
       "quoteId": 11,
       "id": 51
+    },
+    {
+      "quoteId": 3,
+      "id": 52
+    },
+    {
+      "quoteId": 3,
+      "id": 53
+    },
+    {
+      "quoteId": 3,
+      "id": 54
+    },
+    {
+      "quoteId": 3,
+      "id": 55
+    },
+    {
+      "quoteId": 3,
+      "id": 56
+    },
+    {
+      "quoteId": 3,
+      "id": 57
+    },
+    {
+      "quoteId": 3,
+      "id": 58
+    },
+    {
+      "quoteId": 3,
+      "id": 59
+    },
+    {
+      "quoteId": 3,
+      "id": 60
+    },
+    {
+      "quoteId": 3,
+      "id": 61
+    },
+    {
+      "quoteId": 3,
+      "id": 62
+    },
+    {
+      "quoteId": 3,
+      "id": 63
+    },
+    {
+      "quoteId": 3,
+      "id": 64
+    },
+    {
+      "quoteId": 3,
+      "id": 65
+    },
+    {
+      "quoteId": 3,
+      "id": 66
+    },
+    {
+      "quoteId": 3,
+      "id": 67
+    },
+    {
+      "quoteId": 3,
+      "id": 68
     }
   ]
 }
